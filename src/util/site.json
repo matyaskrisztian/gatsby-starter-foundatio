@@ -2,11 +2,11 @@
   "meta": {
     "title": "Fittebben a világ",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Made with ❤ by Krisztian",
+    "siteUrl": "www.fitti.netlify.app",
     "image": "/assets/stackrole.png",
     "iconimage": "static/assets/kettlebell.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
